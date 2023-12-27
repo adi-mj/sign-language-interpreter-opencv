@@ -41,4 +41,4 @@ collect_images.py   : Collects multiple frames for data collection.
 generate.py         : Generates a CSV file with image path and class mapping.
 train.py            : Trains the Support Vector Machine model and creates model.pkl.
 test.py             : Tests the model in real-time using the webcam.
-model.pkl           : A trained model for you to try out test.py (replace -> `with open('<model.pkl>', 'rb') as f:` in test.py to use your own)
+model.pkl           : A trained model for you to try out test.py (replace `with open('<model.pkl>', 'rb') as f:` in test.py to use your own)

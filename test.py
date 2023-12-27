@@ -63,7 +63,7 @@ def process_img(hand_img):
 
 import pickle
 # load model
-with open('model2.pkl', 'rb') as f:
+with open('model.pkl', 'rb') as f:
     svm = pickle.load(f)
 
 import cv2 as cv
