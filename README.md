@@ -8,7 +8,7 @@ This project is a Sign Language Interpreter that utilizes OpenCV for image proce
 ## Installation
 Clone the Repository
 ```git
-git clone https://github.com/your-username/sign-language-interpreter.git
+git clone https://github.com/adi-mj/sign-language-interpreter-opencv.git
 ```
 Install Dependencies
 ```git
