@@ -28,11 +28,13 @@ pip install -r requirements.txt
 
     Run generate.py to create a properly formatted CSV file.
     Change the variable file_name to set the name of the CSV file (default: dataset.csv).
-3. Train the 
+
+3. Train the Model
 
     Execute train.py to create a model.pkl file.
     The script also prints the accuracy of the model based on the training data.
-4. Test the Interpreter
+
+4. Test it
 
     Utilize test.py to observe how the model responds in real-time.
     Ensure good lighting and a clear view of hand gestures while testing.
